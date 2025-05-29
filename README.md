@@ -1,7 +1,7 @@
 ![1035255](https://github.com/user-attachments/assets/7cdae74a-7836-4365-af4e-737124531edf)
 
 # Group Policy and Managing
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This guide outlines how to manage account lockouts by configuring Group Policy settings, handle password resets, and enable or disable user accounts. Additionally, it covers how to monitor authentication and security logs to observe login activity and potential security issues.<br />
 
 
 <h2>Video Demonstration</h2>
