@@ -122,7 +122,7 @@ Attempt to log into Client-1 and observe the error message. Then, return to ADUC
 
 Step 5: Observing Logs
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RaF0nv1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Finally, to observe security logs, log into Client-1 with your account, open the Event Viewer by typing eventvwr.msc in the search bar, and run it as jane_admin. Expand Windows Logs > Security, use the Find feature to search for the account, and review the logs for Audit Failures, particularly those related to login attempts.
