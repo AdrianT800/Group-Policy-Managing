@@ -6,8 +6,7 @@ This guide outlines how to manage account lockouts by configuring Group Policy s
 
 <h2>Video Demonstration</h2>
 
--https://drive.google.com/file/d/1C12szlKd_w5XQ_bD_jE1e8UosCuA5yRE/view?usp=drive_link
--  ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+-   ### [Google Drive: Group Policy and Managing](https://drive.google.com/file/d/1NqbU-I-uYD5NGY7tGpdfJ1VvP6TgEaMc/view?usp=drive_link)
 
 <h2>Environments and Technologies Used</h2>
 
